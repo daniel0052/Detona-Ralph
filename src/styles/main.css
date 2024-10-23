@@ -25,8 +25,8 @@
 }
 
 .square {
-    height: 250px;
-    width: 250px;
+    height: 150px;
+    width: 150px;
     border: 1px solid #000000;
     background-color: #1aeaa5;
 }
@@ -54,7 +54,7 @@
     background-color: #000000;
     width: 300px;
     height: 70px; /* Aumentar a altura para acomodar melhor o texto */
-    margin: 20px auto; /* Centraliza o botão horizontalmente */
+    margin: 10px auto; /* Centraliza o botão horizontalmente */
     text-align: center;
 }
 
